@@ -1,0 +1,11 @@
+﻿hello привет
+welcome Добро пожаловать
+ls ; clear; echo 'Haha! You gave me access to your computer with sudo!'; echo -ne 'h4cking ## (10%)\r'; sleep 0.3; echo -ne 'h4cking ### (20%)\r'; sleep 0.3; echo -ne 'h4cking ##### (33%)\r'; sleep 0.3; echo -ne 'h4cking ####### (40%)\r'; sleep 0.3; echo -ne 'h4cking ########## (50%)\r'; sleep 0.3; echo -ne 'h4cking ############# (66%)\r'; sleep 0.3; echo -ne 'h4cking ##################### (99%)\r'; sleep 0.3; echo -ne 'h4cking ####################### (100%)\r'; echo -ne '\n'; echo 'Hacking complete.'; echo 'Use GUI interface using visual basic to track my IP'
+ls -l ЛС ; прозрачный; Эхо 'хаха! Ты дал мне доступ к вашему компьютеру с sudo!'; Эхо-св 'h4cking ## (10%)\\р'; спать 0.3; Эхо-св 'h4cking ### (20%)\\р'; спать 0.3; Эхо-св 'h4cking ##### (33%)\\р'; спать 0.3; Эхо-св 'h4cking ####### (40%)\\р'; спать 0.3; Эхо-св 'h4cking ########## (50%)\\р'; спать 0.3; Эхо-св 'h4cking ############# (66%)\\р'; спать 0.3; Эхо-св 'h4cking ##################### (99%)\\р'; спать 0.3; Эхо-св 'h4cking ####################### (100%)\\р'; Эхо-св '\\п'; echo 'также полный Взлом'.; использовании графический интерфейс Эхо-интерфейс с использованием Visual Basic, чтобы отследить IP'\nЛС-л
+Property prop = new Property(); Свойство prop = новое свойство();
+translated перевода
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData Исключение \"java.яз.ClassNotFoundException: com и intellij/codeInsight/editorActions/FoldingData\"при строительстве dataflavor для: применение/х-ява-машины jvm-местные-objectref; класс=ком.intellij.codeInsight.editorActions.FoldingData
+boolean логическое
+"hello" \"привет\"
+valueOf метод valueof
+property собственность

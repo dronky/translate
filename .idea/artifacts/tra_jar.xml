@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tra_jar</output-path>
+    <root id="archive" name="tra.jar">
+      <element id="module-output" name="tra" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/properties/properties.properties" />
+    </root>
+  </artifact>
+</component>
